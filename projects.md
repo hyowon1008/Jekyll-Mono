@@ -24,4 +24,4 @@ permalink: /경영빅데이터분석 팀 projects/
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:hellen94@naver.com)
+[hellen94@naver.com](mailto:hellen94@naver.com)
